@@ -1,0 +1,28 @@
+body{
+	margin:0;
+	padding:0;
+	height:40rem;
+	width:100%;
+	}
+#d1{
+	height:3.9rem;
+	width:100%;
+	background-color:red;}
+#d21{
+	height:36rem;
+	width:24.9%;
+	background-color:green;}
+#d22{
+	height:36rem;
+	width:59.9%;
+	background-color:yellow;
+	position:absolute;
+	top:4rem;
+	left:25%;}
+#d23{
+	height:36rem;
+	width:15%;
+	background-color:blue;
+	position:absolute;
+	top:4rem;
+	left:85%;}

@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="css.css" type="text/css" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="mz">
+  <meta name="Keywords" content="family">
+  <meta name="Description" content="家庭聊天系统">
+  <title>We Are Family</title>
+ </head>
+ <body>
+ 	<!--标题头部-->
+	<div id="d1"></div>
+ </body>
+</html>
